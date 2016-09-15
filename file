@@ -1,0 +1,5295 @@
+Chromosomes 
+128
+ mutation 
+0.3
+
+
+
+Generation:  1
+Best solution so far:
+f( (-0.01600000095373133, -3.323364447282984e-05) )=  -45.3845062291
+Generation:  2
+Best solution so far:
+f( (-0.01600000095373133, -3.323364447282984e-05) )=  -45.3845062291
+Generation:  3
+Best solution so far:
+f( (-0.01600000095373133, -3.323364447282984e-05) )=  -45.3845062291
+Generation:  4
+Best solution so far:
+f( (-0.01600000095373133, -3.323364447282984e-05) )=  -45.3845062291
+Generation:  5
+Best solution so far:
+f( (-0.01600000095373133, -3.323364447282984e-05) )=  -45.3845062291
+Generation:  6
+Best solution so far:
+f( (-0.01600000095373133, -3.323364447282984e-05) )=  -45.3845062291
+Generation:  7
+Best solution so far:
+f( (-0.01600000095373133, -3.323364447282984e-05) )=  -45.3845062291
+Generation:  8
+Best solution so far:
+f( (-0.01600000095373133, -3.323364447282984e-05) )=  -45.3845062291
+Generation:  9
+Best solution so far:
+f( (-0.01600000095373133, -3.323364447282984e-05) )=  -45.3845062291
+Generation:  10
+Best solution so far:
+f( (-0.01600000095373133, -3.1280519472431934e-05) )=  -45.3845062435
+Generation:  11
+Best solution so far:
+f( (-0.01600000095373133, -3.1280519472431934e-05) )=  -45.3845062435
+Generation:  12
+Best solution so far:
+f( (-0.01600000095373133, -3.1280519472431934e-05) )=  -45.3845062435
+Generation:  13
+Best solution so far:
+f( (-0.01600000095373133, -3.1280519472431934e-05) )=  -45.3845062435
+Generation:  14
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1280519472431934e-05) )=  -45.4364751562
+Generation:  15
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1280519472431934e-05) )=  -45.4364751562
+Generation:  16
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1280519472431934e-05) )=  -45.4364751562
+Generation:  17
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1280519472431934e-05) )=  -45.4364751562
+Generation:  18
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1280519472431934e-05) )=  -45.4364751562
+Generation:  19
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1280519472431934e-05) )=  -45.4364751562
+Generation:  20
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  21
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  22
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  23
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  24
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  25
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  26
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  27
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  28
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  29
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  30
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  31
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  32
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  33
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  34
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  35
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  36
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  37
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  38
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  39
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  40
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  41
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  42
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  43
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  44
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  45
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  46
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  47
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  48
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  49
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  50
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  51
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  52
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  53
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  54
+Best solution so far:
+f( (-9.53733092501352e-10, -3.128051760370454e-05) )=  -45.4364751562
+Generation:  55
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  56
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  57
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  58
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  59
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  60
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  61
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  62
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  63
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  64
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  65
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  66
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  67
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  68
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  69
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  70
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  71
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  72
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  73
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  74
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  75
+Best solution so far:
+f( (-9.53733092501352e-10, -3.1250000027682745e-05) )=  -45.4364752426
+Generation:  76
+Best solution so far:
+f( (-9.53733092501352e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  77
+Best solution so far:
+f( (-9.53733092501352e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  78
+Best solution so far:
+f( (-9.53733092501352e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  79
+Best solution so far:
+f( (-9.53733092501352e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  80
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  81
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  82
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  83
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  84
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  85
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  86
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  87
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  88
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  89
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  90
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  91
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  92
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  93
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  94
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  95
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  96
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  97
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  98
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  99
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  100
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+
+
+
+Chromosomes 
+128
+ mutation 
+0.5
+
+
+
+Generation:  1
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  2
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  3
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  4
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  5
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  6
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  7
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  8
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  9
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  10
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  11
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  12
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  13
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  14
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  15
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  16
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  17
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  18
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  19
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  20
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  21
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  22
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  23
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  24
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  25
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  26
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  27
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  28
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  29
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  30
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  31
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  32
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  33
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  34
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  35
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  36
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  37
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  38
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  39
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  40
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  41
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  42
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  43
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  44
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  45
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  46
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  47
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  48
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  49
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  50
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  51
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  52
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  53
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  54
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  55
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  56
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  57
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  58
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  59
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  60
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  61
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  62
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  63
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  64
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  65
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  66
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  67
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  68
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  69
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  70
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  71
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  72
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  73
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  74
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  75
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  76
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  77
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  78
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  79
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  80
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  81
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  82
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  83
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  84
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  85
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  86
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  87
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  88
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  89
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  90
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  91
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  92
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  93
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  94
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  95
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  96
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  97
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  98
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  99
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  100
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+
+
+
+Chromosomes 
+128
+ mutation 
+0.7
+
+
+
+Generation:  1
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  2
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  3
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  4
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  5
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  6
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  7
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  8
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  9
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  10
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  11
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  12
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  13
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  14
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  15
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  16
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  17
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  18
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  19
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  20
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  21
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  22
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  23
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  24
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  25
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  26
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  27
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  28
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  29
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  30
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  31
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  32
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  33
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  34
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  35
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  36
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  37
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  38
+Best solution so far:
+f( (-9.536762490824913e-10, -2.842170943040401e-14) )=  -45.4365636542
+Generation:  39
+Best solution so far:
+f( (0.0, -2.842170943040401e-14) )=  -45.4365636569
+Generation:  40
+Best solution so far:
+f( (0.0, -2.842170943040401e-14) )=  -45.4365636569
+Generation:  41
+Best solution so far:
+f( (0.0, -2.842170943040401e-14) )=  -45.4365636569
+Generation:  42
+Best solution so far:
+f( (0.0, -2.842170943040401e-14) )=  -45.4365636569
+Generation:  43
+Best solution so far:
+f( (0.0, -2.842170943040401e-14) )=  -45.4365636569
+Generation:  44
+Best solution so far:
+f( (0.0, -2.842170943040401e-14) )=  -45.4365636569
+Generation:  45
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  46
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  47
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  48
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  49
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  50
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  51
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  52
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  53
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  54
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  55
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  56
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  57
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  58
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  59
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  60
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  61
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  62
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  63
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  64
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  65
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  66
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  67
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  68
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  69
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  70
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  71
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  72
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  73
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  74
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  75
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  76
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  77
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  78
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  79
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  80
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  81
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  82
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  83
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  84
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  85
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  86
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  87
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  88
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  89
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  90
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  91
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  92
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  93
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  94
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  95
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  96
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  97
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  98
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  99
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  100
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+
+
+
+Chromosomes 
+128
+ mutation 
+0.9
+
+
+
+Generation:  1
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  2
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  3
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  4
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  5
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  6
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  7
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  8
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  9
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  10
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  11
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  12
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  13
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  14
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  15
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  16
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  17
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  18
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  19
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  20
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  21
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  22
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  23
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  24
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  25
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  26
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  27
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  28
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  29
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  30
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  31
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  32
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  33
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  34
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  35
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  36
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  37
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  38
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  39
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  40
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  41
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  42
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  43
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  44
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  45
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  46
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  47
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  48
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  49
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  50
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  51
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  52
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  53
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  54
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  55
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  56
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  57
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  58
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  59
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  60
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  61
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  62
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  63
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  64
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  65
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  66
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  67
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  68
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  69
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  70
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  71
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  72
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  73
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  74
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  75
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  76
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  77
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  78
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  79
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  80
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  81
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  82
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  83
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  84
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  85
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  86
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  87
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  88
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  89
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  90
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  91
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  92
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  93
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  94
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  95
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  96
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  97
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  98
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  99
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  100
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+
+
+
+Chromosomes 
+128
+ mutation 
+1.1
+
+
+
+Generation:  1
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  2
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  3
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  4
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  5
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  6
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  7
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  8
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  9
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  10
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  11
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  12
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  13
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  14
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  15
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  16
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  17
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  18
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  19
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  20
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  21
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  22
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  23
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  24
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  25
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  26
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  27
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  28
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  29
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  30
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  31
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  32
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  33
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  34
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  35
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  36
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  37
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  38
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  39
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  40
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  41
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  42
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  43
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  44
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  45
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  46
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  47
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  48
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  49
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  50
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  51
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  52
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  53
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  54
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  55
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  56
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  57
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  58
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  59
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  60
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  61
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  62
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  63
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  64
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  65
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  66
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  67
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  68
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  69
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  70
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  71
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  72
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  73
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  74
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  75
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  76
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  77
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  78
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  79
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  80
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  81
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  82
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  83
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  84
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  85
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  86
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  87
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  88
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  89
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  90
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  91
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  92
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  93
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  94
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  95
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  96
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  97
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  98
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  99
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+Generation:  100
+Best solution so far:
+f( (0.0, 0.0) )=  -45.4365636569
+
+
+
+Chromosomes 
+256
+ mutation 
+0.3
+
+
+
+Generation:  1
+Best solution so far:
+f( (32.767996093630785, -2.0640007325449297) )=  -24.5870064429
+Generation:  2
+Best solution so far:
+f( (32.12649899768829, 32.06367869185652) )=  -25.0004091319
+Generation:  3
+Best solution so far:
+f( (32.12649899768829, -2.0640007325449297) )=  -25.1776814754
+Generation:  4
+Best solution so far:
+f( (32.12649899768829, -2.0640007325449297) )=  -25.1776814754
+Generation:  5
+Best solution so far:
+f( (32.126498997688174, -2.0640007325449297) )=  -25.1776814754
+Generation:  6
+Best solution so far:
+f( (32.126498997688174, -2.0640007325449297) )=  -25.1776814754
+Generation:  7
+Best solution so far:
+f( (32.1264911851883, -2.0640007325449297) )=  -25.177721098
+Generation:  8
+Best solution so far:
+f( (23.93449899768818, -2.0640007325449297) )=  -25.8926679981
+Generation:  9
+Best solution so far:
+f( (23.93449899768818, -2.0640007325449297) )=  -25.8926679981
+Generation:  10
+Best solution so far:
+f( (23.93449899768818, -2.0640007325449297) )=  -25.8926679981
+Generation:  11
+Best solution so far:
+f( (23.93449899768818, -2.0640007325449297) )=  -25.8926679981
+Generation:  12
+Best solution so far:
+f( (23.93449899768818, -2.0640007325449297) )=  -25.8926679981
+Generation:  13
+Best solution so far:
+f( (23.93449899768818, -2.0640007325449297) )=  -25.8926679981
+Generation:  14
+Best solution so far:
+f( (23.93449899768818, -2.0640007325449297) )=  -25.8926679981
+Generation:  15
+Best solution so far:
+f( (23.934499012946965, -2.0640007325449297) )=  -25.8926680447
+Generation:  16
+Best solution so far:
+f( (23.934499012946965, -2.0640007325449297) )=  -25.8926680447
+Generation:  17
+Best solution so far:
+f( (23.934499012946965, -2.0640007325449297) )=  -25.8926680447
+Generation:  18
+Best solution so far:
+f( (23.934499012946965, -2.0640007325449297) )=  -25.8926680447
+Generation:  19
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  20
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  21
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  22
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  23
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  24
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  25
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  26
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  27
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  28
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  29
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  30
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  31
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  32
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  33
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  34
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  35
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  36
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  37
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  38
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  39
+Best solution so far:
+f( (23.934499012947086, -2.0640007325449297) )=  -25.8926680447
+Generation:  40
+Best solution so far:
+f( (23.934499013900755, -2.0640007325449297) )=  -25.8926680477
+Generation:  41
+Best solution so far:
+f( (23.934499013900755, -2.0640007325449297) )=  -25.8926680477
+Generation:  42
+Best solution so far:
+f( (23.934499013900755, -2.0640007325449297) )=  -25.8926680477
+Generation:  43
+Best solution so far:
+f( (23.934499013900755, -2.0640007325449297) )=  -25.8926680477
+Generation:  44
+Best solution so far:
+f( (23.934499013900755, -2.0640007325449297) )=  -25.8926680477
+Generation:  45
+Best solution so far:
+f( (22.910499013900754, -2.0640007325449297) )=  -25.9097487545
+Generation:  46
+Best solution so far:
+f( (22.910499013900754, -2.0640007325449297) )=  -25.9097487545
+Generation:  47
+Best solution so far:
+f( (22.910499013900754, -2.0640007325449297) )=  -25.9097487545
+Generation:  48
+Best solution so far:
+f( (22.910499013900754, -2.0640007325449297) )=  -25.9097487545
+Generation:  49
+Best solution so far:
+f( (23.038499013900754, -2.0640007325449297) )=  -26.0517589668
+Generation:  50
+Best solution so far:
+f( (23.038499013900754, -2.0640007325449297) )=  -26.0517589668
+Generation:  51
+Best solution so far:
+f( (6.654499013900754, -2.0640007325449297) )=  -31.3792550251
+Generation:  52
+Best solution so far:
+f( (6.654499013900754, -2.0640007325449297) )=  -31.3792550251
+Generation:  53
+Best solution so far:
+f( (6.654499013900754, -2.0640007325449297) )=  -31.3792550251
+Generation:  54
+Best solution so far:
+f( (6.654499013900754, -2.0640007325449297) )=  -31.3792550251
+Generation:  55
+Best solution so far:
+f( (6.654499013900754, -2.0640007325449297) )=  -31.3792550251
+Generation:  56
+Best solution so far:
+f( (6.654499013900754, -2.0640007325449297) )=  -31.3792550251
+Generation:  57
+Best solution so far:
+f( (6.654499013900754, -2.0640007325449297) )=  -31.3792550251
+Generation:  58
+Best solution so far:
+f( (6.654499013900754, -2.0640007325449297) )=  -31.3792550251
+Generation:  59
+Best solution so far:
+f( (6.654499013900754, -2.0640002442636813) )=  -31.379255895
+Generation:  60
+Best solution so far:
+f( (6.654499013900754, -2.0640002442636813) )=  -31.379255895
+Generation:  61
+Best solution so far:
+f( (6.654499013900754, -2.0640002442636813) )=  -31.379255895
+Generation:  62
+Best solution so far:
+f( (6.654499013900754, -2.0640002442636813) )=  -31.379255895
+Generation:  63
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  64
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  65
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  66
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  67
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  68
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  69
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  70
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  71
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  72
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  73
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  74
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  75
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  76
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  77
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  78
+Best solution so far:
+f( (6.654499013900754, -2.0480002442636795) )=  -31.4051103135
+Generation:  79
+Best solution so far:
+f( (7.166499013900754, -2.0480002442636795) )=  -31.7593234274
+Generation:  80
+Best solution so far:
+f( (7.166499013900754, -2.0480002442636795) )=  -31.7593234274
+Generation:  81
+Best solution so far:
+f( (7.166499013900754, -2.0480002442636795) )=  -31.7593234274
+Generation:  82
+Best solution so far:
+f( (7.166499013900754, -2.0480002442636795) )=  -31.7593234274
+Generation:  83
+Best solution so far:
+f( (7.164499013900759, -2.0480002442636795) )=  -31.7724691528
+Generation:  84
+Best solution so far:
+f( (7.164499013900759, -2.0480002442636795) )=  -31.7724691528
+Generation:  85
+Best solution so far:
+f( (7.164499013900759, -2.0480002442636795) )=  -31.7724691528
+Generation:  86
+Best solution so far:
+f( (7.164499013900759, -2.0480002442636795) )=  -31.7724691528
+Generation:  87
+Best solution so far:
+f( (7.164499013900759, -2.0480002442636795) )=  -31.7724691528
+Generation:  88
+Best solution so far:
+f( (7.164483388900756, -2.0480002442636795) )=  -31.7725717669
+Generation:  89
+Best solution so far:
+f( (7.164483388900756, -2.0480002442636795) )=  -31.7725717669
+Generation:  90
+Best solution so far:
+f( (7.164483388900756, -2.0480002442636795) )=  -31.7725717669
+Generation:  91
+Best solution so far:
+f( (7.164483388900756, -2.0480002442636795) )=  -31.7725717669
+Generation:  92
+Best solution so far:
+f( (7.164483388900756, -2.0480002442636795) )=  -31.7725717669
+Generation:  93
+Best solution so far:
+f( (7.164483388900756, -2.0480002442636795) )=  -31.7725717669
+Generation:  94
+Best solution so far:
+f( (7.164483388900756, -2.0480002442636795) )=  -31.7725717669
+Generation:  95
+Best solution so far:
+f( (7.164483388900756, -2.0480002442636795) )=  -31.7725717669
+Generation:  96
+Best solution so far:
+f( (7.164483388900756, -2.44263681281609e-07) )=  -32.1088711153
+Generation:  97
+Best solution so far:
+f( (7.164483388900756, -2.44263681281609e-07) )=  -32.1088711153
+Generation:  98
+Best solution so far:
+f( (7.164483388900756, -2.44263681281609e-07) )=  -32.1088711153
+Generation:  99
+Best solution so far:
+f( (7.164483388900756, -2.44263681281609e-07) )=  -32.1088711153
+Generation:  100
+Best solution so far:
+f( (7.164483388900756, -2.44263681281609e-07) )=  -32.1088711153
+
+
+
+Chromosomes 
+256
+ mutation 
+0.5
+
+
+
+Generation:  1
+Best solution so far:
+f( (7.164483388900756, -2.44263681281609e-07) )=  -32.1088711153
+Generation:  2
+Best solution so far:
+f( (7.164483388900756, -2.44263681281609e-07) )=  -32.1088711153
+Generation:  3
+Best solution so far:
+f( (7.164483388423918, -2.44263681281609e-07) )=  -32.1088711185
+Generation:  4
+Best solution so far:
+f( (7.164483388423918, -2.44263681281609e-07) )=  -32.1088711185
+Generation:  5
+Best solution so far:
+f( (7.164483388423918, -2.44263681281609e-07) )=  -32.1088711185
+Generation:  6
+Best solution so far:
+f( (7.164483388423918, -2.44263681281609e-07) )=  -32.1088711185
+Generation:  7
+Best solution so far:
+f( (7.164483388423918, -2.44263681281609e-07) )=  -32.1088711185
+Generation:  8
+Best solution so far:
+f( (7.164483388185502, -2.44263681281609e-07) )=  -32.1088711201
+Generation:  9
+Best solution so far:
+f( (7.164483388185502, -2.44263681281609e-07) )=  -32.1088711201
+Generation:  10
+Best solution so far:
+f( (7.164483388185502, -2.44263681281609e-07) )=  -32.1088711201
+Generation:  11
+Best solution so far:
+f( (7.164483388185502, -2.44263681281609e-07) )=  -32.1088711201
+Generation:  12
+Best solution so far:
+f( (7.164483388185502, -2.44263681281609e-07) )=  -32.1088711201
+Generation:  13
+Best solution so far:
+f( (7.164483388185445, -2.44263681281609e-07) )=  -32.1088711201
+Generation:  14
+Best solution so far:
+f( (7.164483388125895, -2.44263681281609e-07) )=  -32.1088711205
+Generation:  15
+Best solution so far:
+f( (7.156483388125899, -2.44263681281609e-07) )=  -32.1628473473
+Generation:  16
+Best solution so far:
+f( (7.156483384311201, -2.44263681281609e-07) )=  -32.1628473729
+Generation:  17
+Best solution so far:
+f( (7.156483384310732, -2.44263681281609e-07) )=  -32.1628473729
+Generation:  18
+Best solution so far:
+f( (7.156483384310732, -2.44263681281609e-07) )=  -32.1628473729
+Generation:  19
+Best solution so far:
+f( (7.156483384310732, -2.44263681281609e-07) )=  -32.1628473729
+Generation:  20
+Best solution so far:
+f( (7.156483384310732, -2.44263681281609e-07) )=  -32.1628473729
+Generation:  21
+Best solution so far:
+f( (7.156483384310732, -2.44263681281609e-07) )=  -32.1628473729
+Generation:  22
+Best solution so far:
+f( (7.156483384310732, -2.44263681281609e-07) )=  -32.1628473729
+Generation:  23
+Best solution so far:
+f( (7.156483384310732, -2.44263681281609e-07) )=  -32.1628473729
+Generation:  24
+Best solution so far:
+f( (7.156483384310675, -2.44263681281609e-07) )=  -32.1628473729
+Generation:  25
+Best solution so far:
+f( (3.060483384310679, -2.44263681281609e-07) )=  -38.3148783338
+Generation:  26
+Best solution so far:
+f( (3.060483384310679, -2.44263681281609e-07) )=  -38.3148783338
+Generation:  27
+Best solution so far:
+f( (3.060483384310679, -2.44263681281609e-07) )=  -38.3148783338
+Generation:  28
+Best solution so far:
+f( (3.060479478060678, -2.44263681281609e-07) )=  -38.3148974409
+Generation:  29
+Best solution so far:
+f( (3.060479478060678, -2.44263681281609e-07) )=  -38.3148974409
+Generation:  30
+Best solution so far:
+f( (3.060479447543095, -2.44263681281609e-07) )=  -38.3148975902
+Generation:  31
+Best solution so far:
+f( (3.0603583843032283, -2.44263681281609e-07) )=  -38.3154894273
+Generation:  32
+Best solution so far:
+f( (3.0603583843032283, -2.44263681281609e-07) )=  -38.3154894273
+Generation:  33
+Best solution so far:
+f( (3.0603583843032283, -2.44263681281609e-07) )=  -38.3154894273
+Generation:  34
+Best solution so far:
+f( (3.0603583843032283, -2.44263681281609e-07) )=  -38.3154894273
+Generation:  35
+Best solution so far:
+f( (3.0603583843032283, -2.44263681281609e-07) )=  -38.3154894273
+Generation:  36
+Best solution so far:
+f( (3.0603583843032283, -2.44263681281609e-07) )=  -38.3154894273
+Generation:  37
+Best solution so far:
+f( (3.06035826223291, -2.44263681281609e-07) )=  -38.3154900237
+Generation:  38
+Best solution so far:
+f( (3.060108384303227, -2.44263681281609e-07) )=  -38.3167095373
+Generation:  39
+Best solution so far:
+f( (3.0601064311782267, -2.44263681281609e-07) )=  -38.3167190585
+Generation:  40
+Best solution so far:
+f( (3.0601064311782267, -2.44263681281609e-07) )=  -38.3167190585
+Generation:  41
+Best solution so far:
+f( (3.0601064311782267, -2.44263681281609e-07) )=  -38.3167190585
+Generation:  42
+Best solution so far:
+f( (3.0601064311633266, -2.44263681281609e-07) )=  -38.3167190586
+Generation:  43
+Best solution so far:
+f( (3.0601064311633266, -2.44263681281609e-07) )=  -38.3167190586
+Generation:  44
+Best solution so far:
+f( (3.0601063090930083, -2.44263681281609e-07) )=  -38.3167196537
+Generation:  45
+Best solution so far:
+f( (3.0601024028430146, -2.44263681281609e-07) )=  -38.3167386955
+Generation:  46
+Best solution so far:
+f( (3.0601024028430146, -2.44263681281609e-07) )=  -38.3167386955
+Generation:  47
+Best solution so far:
+f( (3.0601024028430146, -2.44263681281609e-07) )=  -38.3167386955
+Generation:  48
+Best solution so far:
+f( (3.0600711528430082, -2.44263681281609e-07) )=  -38.3168910061
+Generation:  49
+Best solution so far:
+f( (3.0600711528430082, -2.44263681281609e-07) )=  -38.3168910061
+Generation:  50
+Best solution so far:
+f( (3.0600711528430082, -2.44263681281609e-07) )=  -38.3168910061
+Generation:  51
+Best solution so far:
+f( (3.0600711528430082, -2.44263681281609e-07) )=  -38.3168910061
+Generation:  52
+Best solution so far:
+f( (3.0600711528430082, -2.44263681281609e-07) )=  -38.3168910061
+Generation:  53
+Best solution so far:
+f( (3.0600711528430082, -2.44263681281609e-07) )=  -38.3168910061
+Generation:  54
+Best solution so far:
+f( (3.0600711528430082, -2.44263681281609e-07) )=  -38.3168910061
+Generation:  55
+Best solution so far:
+f( (3.0600711528430082, -2.44263681281609e-07) )=  -38.3168910061
+Generation:  56
+Best solution so far:
+f( (3.0600711528430082, -2.44263681281609e-07) )=  -38.3168910061
+Generation:  57
+Best solution so far:
+f( (3.0280711528430118, -2.44263681281609e-07) )=  -38.448738598
+Generation:  58
+Best solution so far:
+f( (3.0280711528430118, -2.44263681281609e-07) )=  -38.448738598
+Generation:  59
+Best solution so far:
+f( (3.028071152842898, -2.44263681281609e-07) )=  -38.448738598
+Generation:  60
+Best solution so far:
+f( (3.028071152842898, -2.44263681281609e-07) )=  -38.448738598
+Generation:  61
+Best solution so far:
+f( (3.02807115284115, -2.44263681281609e-07) )=  -38.448738598
+Generation:  62
+Best solution so far:
+f( (3.02807115284115, -2.44263681281609e-07) )=  -38.448738598
+Generation:  63
+Best solution so far:
+f( (3.028071152841143, -2.44263681281609e-07) )=  -38.448738598
+Generation:  64
+Best solution so far:
+f( (3.028071152841143, -2.44263681281609e-07) )=  -38.448738598
+Generation:  65
+Best solution so far:
+f( (3.028071152841143, -2.44263681281609e-07) )=  -38.448738598
+Generation:  66
+Best solution so far:
+f( (3.028071152841143, -2.44263681281609e-07) )=  -38.448738598
+Generation:  67
+Best solution so far:
+f( (3.028071152841143, -2.44263681281609e-07) )=  -38.448738598
+Generation:  68
+Best solution so far:
+f( (3.028071091805984, -2.4414447352683055e-07) )=  -38.4487388013
+Generation:  69
+Best solution so far:
+f( (3.028071091805984, -2.4414447352683055e-07) )=  -38.4487388013
+Generation:  70
+Best solution so far:
+f( (3.028071091805984, -2.4414447352683055e-07) )=  -38.4487388013
+Generation:  71
+Best solution so far:
+f( (3.028071091805984, -2.4414447352683055e-07) )=  -38.4487388013
+Generation:  72
+Best solution so far:
+f( (3.0280633403411414, -2.44263681281609e-07) )=  -38.4487646121
+Generation:  73
+Best solution so far:
+f( (3.0280632793059823, -2.44263681281609e-07) )=  -38.4487648153
+Generation:  74
+Best solution so far:
+f( (3.0280632793059823, -2.44263681281609e-07) )=  -38.4487648153
+Generation:  75
+Best solution so far:
+f( (3.0280632793059823, -3.844036200462142e-12) )=  -38.4487648153
+Generation:  76
+Best solution so far:
+f( (3.0280632793059823, -3.844036200462142e-12) )=  -38.4487648153
+Generation:  77
+Best solution so far:
+f( (3.0280632793059823, -3.844036200462142e-12) )=  -38.4487648153
+Generation:  78
+Best solution so far:
+f( (2.9640632793059822, -3.844036200462142e-12) )=  -38.5539732599
+Generation:  79
+Best solution so far:
+f( (2.9640632793059822, -3.844036200462142e-12) )=  -38.5539732599
+Generation:  80
+Best solution so far:
+f( (2.964063286935378, -4.806821607417078e-10) )=  -38.5539732601
+Generation:  81
+Best solution so far:
+f( (2.964063286935378, -4.806821607417078e-10) )=  -38.5539732601
+Generation:  82
+Best solution so far:
+f( (2.964063286935378, -4.806821607417078e-10) )=  -38.5539732601
+Generation:  83
+Best solution so far:
+f( (2.9640710994353796, -4.806821607417078e-10) )=  -38.5539734762
+Generation:  84
+Best solution so far:
+f( (2.9640710994353796, -4.806821607417078e-10) )=  -38.5539734762
+Generation:  85
+Best solution so far:
+f( (2.9640750056853804, -4.806892661690654e-10) )=  -38.5539735832
+Generation:  86
+Best solution so far:
+f( (2.9640750056853804, -4.806892661690654e-10) )=  -38.5539735832
+Generation:  87
+Best solution so far:
+f( (2.964076958810381, -4.806821607417078e-10) )=  -38.5539736363
+Generation:  88
+Best solution so far:
+f( (2.964076958810381, -4.806821607417078e-10) )=  -38.5539736363
+Generation:  89
+Best solution so far:
+f( (2.9640769588108427, -4.806821607417078e-10) )=  -38.5539736363
+Generation:  90
+Best solution so far:
+f( (2.9640769590487963, -4.806821607417078e-10) )=  -38.5539736363
+Generation:  91
+Best solution so far:
+f( (2.9640769590487963, -4.806821607417078e-10) )=  -38.5539736363
+Generation:  92
+Best solution so far:
+f( (2.9640769590487963, -4.806821607417078e-10) )=  -38.5539736363
+Generation:  93
+Best solution so far:
+f( (2.9640769590487963, -4.806821607417078e-10) )=  -38.5539736363
+Generation:  94
+Best solution so far:
+f( (2.9640769590487963, -4.806821607417078e-10) )=  -38.5539736363
+Generation:  95
+Best solution so far:
+f( (2.9640769590487963, -4.806821607417078e-10) )=  -38.5539736363
+Generation:  96
+Best solution so far:
+f( (2.9640779356113, -4.806821607417078e-10) )=  -38.5539736629
+Generation:  97
+Best solution so far:
+f( (2.964092585956145, -4.806821607417078e-10) )=  -38.5539740549
+Generation:  98
+Best solution so far:
+f( (2.964092585956145, -4.806821607417078e-10) )=  -38.5539740549
+Generation:  99
+Best solution so far:
+f( (2.964092585956145, -4.806821607417078e-10) )=  -38.5539740549
+Generation:  100
+Best solution so far:
+f( (2.964092585971045, -4.806821607417078e-10) )=  -38.5539740549
+
+
+
+Chromosomes 
+256
+ mutation 
+0.7
+
+
+
+Generation:  1
+Best solution so far:
+f( (2.964092585971045, -4.806821607417078e-10) )=  -38.5539740549
+Generation:  2
+Best solution so far:
+f( (0.9160925859710503, -4.806821607417078e-10) )=  -42.8278641231
+Generation:  3
+Best solution so far:
+f( (0.9160925859710503, -4.806821607417078e-10) )=  -42.8278641231
+Generation:  4
+Best solution so far:
+f( (0.9160925859710503, -4.806821607417078e-10) )=  -42.8278641231
+Generation:  5
+Best solution so far:
+f( (0.9160925859710503, -4.806821607417078e-10) )=  -42.8278641231
+Generation:  6
+Best solution so far:
+f( (0.9160925859710503, -4.806821607417078e-10) )=  -42.8278641231
+Generation:  7
+Best solution so far:
+f( (0.9160925859710503, -4.806821607417078e-10) )=  -42.8278641231
+Generation:  8
+Best solution so far:
+f( (0.9160925860306506, -4.806821607417078e-10) )=  -42.8278641232
+Generation:  9
+Best solution so far:
+f( (0.9160925860306506, -4.806821607417078e-10) )=  -42.8278641232
+Generation:  10
+Best solution so far:
+f( (0.9160925860306506, -4.806821607417078e-10) )=  -42.8278641232
+Generation:  11
+Best solution so far:
+f( (0.9162175860306547, -4.806821607417078e-10) )=  -42.8280550575
+Generation:  12
+Best solution so far:
+f( (0.9162175860306547, -4.806821607417078e-10) )=  -42.8280550575
+Generation:  13
+Best solution so far:
+f( (0.9162175860306547, -4.806821607417078e-10) )=  -42.8280550575
+Generation:  14
+Best solution so far:
+f( (0.9164675857885101, -4.806821607417078e-10) )=  -42.8284352058
+Generation:  15
+Best solution so far:
+f( (0.9164675857885101, -4.806821607417078e-10) )=  -42.8284352058
+Generation:  16
+Best solution so far:
+f( (0.9164675857885101, -4.806821607417078e-10) )=  -42.8284352058
+Generation:  17
+Best solution so far:
+f( (0.9164675857885101, -4.806821607417078e-10) )=  -42.8284352058
+Generation:  18
+Best solution so far:
+f( (0.9164675857885101, -4.806821607417078e-10) )=  -42.8284352058
+Generation:  19
+Best solution so far:
+f( (0.9164675857885101, -4.806821607417078e-10) )=  -42.8284352058
+Generation:  20
+Best solution so far:
+f( (0.9164675862653482, -4.806821607417078e-10) )=  -42.8284352066
+Generation:  21
+Best solution so far:
+f( (0.9164675862653482, -4.806821607417078e-10) )=  -42.8284352066
+Generation:  22
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  23
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  24
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  25
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  26
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  27
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  28
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  29
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  30
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  31
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  32
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  33
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  34
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  35
+Best solution so far:
+f( (0.9484675862653447, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  36
+Best solution so far:
+f( (0.9484675862690679, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  37
+Best solution so far:
+f( (0.9484675862690679, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  38
+Best solution so far:
+f( (0.9484675862690679, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  39
+Best solution so far:
+f( (0.9484675862690679, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  40
+Best solution so far:
+f( (0.9484675862690679, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  41
+Best solution so far:
+f( (0.9484675862691319, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  42
+Best solution so far:
+f( (0.9484675862691319, -4.806821607417078e-10) )=  -42.8563133891
+Generation:  43
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  44
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  45
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  46
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  47
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  48
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  49
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  50
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  51
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  52
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  53
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  54
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  55
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  56
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  57
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  58
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  59
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  60
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  61
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  62
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  63
+Best solution so far:
+f( (0.948467708339443, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  64
+Best solution so far:
+f( (0.9484677083413047, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  65
+Best solution so far:
+f( (0.9484677083413047, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  66
+Best solution so far:
+f( (0.9484677083413047, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  67
+Best solution so far:
+f( (0.9484677083413047, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  68
+Best solution so far:
+f( (0.9484677083413047, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  69
+Best solution so far:
+f( (0.9484677083413047, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  70
+Best solution so far:
+f( (0.9484677083413047, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  71
+Best solution so far:
+f( (0.9484677083413047, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  72
+Best solution so far:
+f( (0.9484677083413047, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  73
+Best solution so far:
+f( (0.9484677083413047, -4.806821607417078e-10) )=  -42.8563134104
+Generation:  74
+Best solution so far:
+f( (0.9489677083413071, -4.806821607417078e-10) )=  -42.8563945479
+Generation:  75
+Best solution so far:
+f( (0.9504677083413071, -4.806821607417078e-10) )=  -42.8565677977
+Generation:  76
+Best solution so far:
+f( (0.9504677083413071, -4.806821607417078e-10) )=  -42.8565677977
+Generation:  77
+Best solution so far:
+f( (0.9504677083413071, -4.806821607417078e-10) )=  -42.8565677977
+Generation:  78
+Best solution so far:
+f( (0.9514677083413048, -4.806821607417078e-10) )=  -42.8566245225
+Generation:  79
+Best solution so far:
+f( (0.9514677083413048, -4.806821607417078e-10) )=  -42.8566245225
+Generation:  80
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  81
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  82
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  83
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  84
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  85
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  86
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  87
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  88
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  89
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  90
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  91
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  92
+Best solution so far:
+f( (0.9514677121560027, -4.806821607417078e-10) )=  -42.8566245226
+Generation:  93
+Best solution so far:
+f( (0.9514686887184993, -4.806821607417078e-10) )=  -42.856624555
+Generation:  94
+Best solution so far:
+f( (0.9514686887184993, -4.806821607417078e-10) )=  -42.856624555
+Generation:  95
+Best solution so far:
+f( (0.9519677121560051, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  96
+Best solution so far:
+f( (0.9519677121560051, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  97
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  98
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  99
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  100
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+
+
+
+Chromosomes 
+256
+ mutation 
+0.9
+
+
+
+Generation:  1
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  2
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  3
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  4
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  5
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  6
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  7
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  8
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  9
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  10
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  11
+Best solution so far:
+f( (0.9519677123944206, -4.806821607417078e-10) )=  -42.8566351619
+Generation:  12
+Best solution so far:
+f( (0.9519989623944198, -4.806821607417078e-10) )=  -42.8566354335
+Generation:  13
+Best solution so far:
+f( (0.9519989623944198, -4.806821607417078e-10) )=  -42.8566354335
+Generation:  14
+Best solution so far:
+f( (0.9519989623944198, -4.806821607417078e-10) )=  -42.8566354335
+Generation:  15
+Best solution so far:
+f( (0.9519989623944198, -4.806821607417078e-10) )=  -42.8566354335
+Generation:  16
+Best solution so far:
+f( (0.951999023429579, -4.806821607417078e-10) )=  -42.856635434
+Generation:  17
+Best solution so far:
+f( (0.951999023429579, -4.806821607417078e-10) )=  -42.856635434
+Generation:  18
+Best solution so far:
+f( (0.951999023429579, -4.806821607417078e-10) )=  -42.856635434
+Generation:  19
+Best solution so far:
+f( (0.951999023429579, -4.806821607417078e-10) )=  -42.856635434
+Generation:  20
+Best solution so far:
+f( (0.951999023429579, -4.806821607417078e-10) )=  -42.856635434
+Generation:  21
+Best solution so far:
+f( (0.951999023429579, -4.806821607417078e-10) )=  -42.856635434
+Generation:  22
+Best solution so far:
+f( (0.951999023429579, -4.806821607417078e-10) )=  -42.856635434
+Generation:  23
+Best solution so far:
+f( (0.951999023429579, -4.806821607417078e-10) )=  -42.856635434
+Generation:  24
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  25
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  26
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  27
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  28
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  29
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  30
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  31
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  32
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  33
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  34
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  35
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  36
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  37
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  38
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  39
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  40
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  41
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  42
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  43
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  44
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  45
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  46
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  47
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  48
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  49
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  50
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  51
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  52
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  53
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  54
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  55
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  56
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  57
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  58
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  59
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  60
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  61
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  62
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  63
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  64
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  65
+Best solution so far:
+f( (0.9519999999920756, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  66
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  67
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  68
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  69
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  70
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  71
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  72
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  73
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  74
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  75
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  76
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  77
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  78
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  79
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  80
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  81
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  82
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  83
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  84
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  85
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  86
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  87
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  88
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  89
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  90
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  91
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  92
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  93
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  94
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  95
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  96
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  97
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  98
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  99
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  100
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+
+
+
+Chromosomes 
+256
+ mutation 
+1.1
+
+
+
+Generation:  1
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  2
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  3
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  4
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  5
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  6
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  7
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  8
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  9
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  10
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  11
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  12
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  13
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  14
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  15
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  16
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  17
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  18
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  19
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  20
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  21
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  22
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  23
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  24
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  25
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  26
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  27
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  28
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  29
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  30
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  31
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  32
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  33
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  34
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  35
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  36
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  37
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  38
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  39
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  40
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  41
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  42
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  43
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  44
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  45
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  46
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  47
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  48
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  49
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  50
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  51
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  52
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  53
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  54
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  55
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  56
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  57
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  58
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  59
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  60
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  61
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  62
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  63
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  64
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  65
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  66
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  67
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  68
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  69
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  70
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  71
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  72
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  73
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  74
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  75
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  76
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  77
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  78
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  79
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  80
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  81
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  82
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  83
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  84
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  85
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  86
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  87
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  88
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  89
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  90
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  91
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  92
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  93
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  94
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  95
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  96
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  97
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  98
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  99
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+Generation:  100
+Best solution so far:
+f( (0.9519999999995292, -4.806821607417078e-10) )=  -42.8566354418
+
+
+
+Chromosomes 
+512
+ mutation 
+0.3
+
+
+
+Generation:  1
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  2
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  3
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  4
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  5
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  6
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  7
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  8
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  9
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  10
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  11
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  12
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  13
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  14
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  15
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  16
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  17
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  18
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  19
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  20
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  21
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  22
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  23
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  24
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  25
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  26
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  27
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  28
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  29
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  30
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  31
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  32
+Best solution so far:
+f( (-8.262015750885489, -0.2565000083744664) )=  -29.8754327287
+Generation:  33
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  34
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  35
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  36
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  37
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  38
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  39
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  40
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  41
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  42
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  43
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  44
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  45
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  46
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  47
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  48
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  49
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  50
+Best solution so far:
+f( (-8.262015750885475, -0.2565000083744664) )=  -29.8754327287
+Generation:  51
+Best solution so far:
+f( (-8.260015750885476, -0.2565000083744664) )=  -29.8831223204
+Generation:  52
+Best solution so far:
+f( (-8.260015750885476, -0.2565000083744664) )=  -29.8831223204
+Generation:  53
+Best solution so far:
+f( (-8.260015750885476, -0.2565000083744664) )=  -29.8831223204
+Generation:  54
+Best solution so far:
+f( (-8.260015750885476, -0.2565000083744664) )=  -29.8831223204
+Generation:  55
+Best solution so far:
+f( (-8.260015750885476, -0.25650000834466624) )=  -29.8831223205
+Generation:  56
+Best solution so far:
+f( (-8.260015750885476, -0.25650000834466624) )=  -29.8831223205
+Generation:  57
+Best solution so far:
+f( (-8.260015750885476, -0.25650000834466624) )=  -29.8831223205
+Generation:  58
+Best solution so far:
+f( (-8.260015750885476, -0.25650000834466624) )=  -29.8831223205
+Generation:  59
+Best solution so far:
+f( (-8.260015750885476, -0.25650000834466624) )=  -29.8831223205
+Generation:  60
+Best solution so far:
+f( (-8.260015750885476, -0.25650000834466624) )=  -29.8831223205
+Generation:  61
+Best solution so far:
+f( (-8.260015750885476, -0.25650000834466624) )=  -29.8831223205
+Generation:  62
+Best solution so far:
+f( (-8.260015750885476, -0.25650000834466624) )=  -29.8831223205
+Generation:  63
+Best solution so far:
+f( (-8.260015750885476, -0.25650000834466624) )=  -29.8831223205
+Generation:  64
+Best solution so far:
+f( (-8.260015750885476, -0.25650000834466624) )=  -29.8831223205
+Generation:  65
+Best solution so far:
+f( (-8.260015750885476, -0.25650000834466624) )=  -29.8831223205
+Generation:  66
+Best solution so far:
+f( (-8.256015750885474, -0.25650000834466624) )=  -29.8986285082
+Generation:  67
+Best solution so far:
+f( (-8.256015750885474, -0.25650000834466624) )=  -29.8986285082
+Generation:  68
+Best solution so far:
+f( (-8.256015750885474, -0.25650000834466624) )=  -29.8986285082
+Generation:  69
+Best solution so far:
+f( (-8.256015750885474, -0.25650000834466624) )=  -29.8986285082
+Generation:  70
+Best solution so far:
+f( (-8.256015750885474, -0.25650000834466624) )=  -29.8986285082
+Generation:  71
+Best solution so far:
+f( (-8.256015750885474, -0.25650000834466624) )=  -29.8986285082
+Generation:  72
+Best solution so far:
+f( (-8.256015750885474, -0.25650000834466624) )=  -29.8986285082
+Generation:  73
+Best solution so far:
+f( (-8.256015750885474, -0.25650000834466624) )=  -29.8986285082
+Generation:  74
+Best solution so far:
+f( (-8.256015750885474, -0.25650000834466624) )=  -29.8986285082
+Generation:  75
+Best solution so far:
+f( (-8.256015750885474, -0.0005000083446660142) )=  -30.5585375085
+Generation:  76
+Best solution so far:
+f( (-8.256015750885474, -0.0005000083446660142) )=  -30.5585375085
+Generation:  77
+Best solution so far:
+f( (-8.256015750885474, -0.0005000083446660142) )=  -30.5585375085
+Generation:  78
+Best solution so far:
+f( (-8.256015750885474, -0.0005000083446660142) )=  -30.5585375085
+Generation:  79
+Best solution so far:
+f( (-8.256015750885474, -0.0005000083446660142) )=  -30.5585375085
+Generation:  80
+Best solution so far:
+f( (-8.256015750885474, -0.0005000083446660142) )=  -30.5585375085
+Generation:  81
+Best solution so far:
+f( (-8.256015750885474, -0.0005000083446660142) )=  -30.5585375085
+Generation:  82
+Best solution so far:
+f( (-8.256015750885474, -0.0005000083446660142) )=  -30.5585375085
+Generation:  83
+Best solution so far:
+f( (-8.256015750885474, -0.0005000081062433992) )=  -30.5585375085
+Generation:  84
+Best solution so far:
+f( (-8.256015750885474, -0.0005000081062433992) )=  -30.5585375085
+Generation:  85
+Best solution so far:
+f( (-8.256015750885474, -0.0005000081062433992) )=  -30.5585375085
+Generation:  86
+Best solution so far:
+f( (-8.256015750885474, -0.0005000081062433992) )=  -30.5585375085
+Generation:  87
+Best solution so far:
+f( (-8.256015750885474, -0.0005000081062433992) )=  -30.5585375085
+Generation:  88
+Best solution so far:
+f( (-8.256015750885474, -0.0005000081062433992) )=  -30.5585375085
+Generation:  89
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  90
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  91
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  92
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  93
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  94
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  95
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  96
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  97
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  98
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  99
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  100
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+
+
+
+Chromosomes 
+512
+ mutation 
+0.5
+
+
+
+Generation:  1
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  2
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  3
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  4
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  5
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  6
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  7
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  8
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  9
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  10
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  11
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  12
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  13
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  14
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  15
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  16
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  17
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  18
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  19
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  20
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  21
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  22
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  23
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  24
+Best solution so far:
+f( (-0.06401575088547418, -0.0005000081062433992) )=  -45.1499718179
+Generation:  25
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  26
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  27
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  28
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  29
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  30
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  31
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  32
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  33
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  34
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  35
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  36
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  37
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  38
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  39
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  40
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  41
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  42
+Best solution so far:
+f( (-0.06401574707077629, -0.0005000081062433992) )=  -45.1499718409
+Generation:  43
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  44
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  45
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  46
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  47
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  48
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  49
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  50
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  51
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  52
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  53
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  54
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  55
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  56
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  57
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  58
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  59
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  60
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  61
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  62
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  63
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  64
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  65
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  66
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  67
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  68
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  69
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  70
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  71
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  72
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  73
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  74
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  75
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  76
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  77
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  78
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  79
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  80
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  81
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  82
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  83
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  84
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  85
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  86
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  87
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  88
+Best solution so far:
+f( (-0.06401574707077629, -8.106248117201176e-09) )=  -45.149983759
+Generation:  89
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  90
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  91
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  92
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  93
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  94
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  95
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  96
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  97
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  98
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  99
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  100
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+
+
+
+Chromosomes 
+512
+ mutation 
+0.7
+
+
+
+Generation:  1
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  2
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  3
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  4
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  5
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  6
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  7
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  8
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  9
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  10
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  11
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  12
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  13
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  14
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  15
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  16
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  17
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  18
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  19
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  20
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  21
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  22
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  23
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  24
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  25
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  26
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  27
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  28
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  29
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  30
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  31
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  32
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  33
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  34
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  35
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  36
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  37
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  38
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  39
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  40
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  41
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  42
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  43
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  44
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  45
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  46
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  47
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  48
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  49
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  50
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  51
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  52
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  53
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  54
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  55
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  56
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  57
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  58
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  59
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  60
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  61
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  62
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  63
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  64
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  65
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  66
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  67
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  68
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  69
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  70
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  71
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  72
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  73
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  74
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  75
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  76
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  77
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  78
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  79
+Best solution so far:
+f( (-1.574707077622861e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  80
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  81
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  82
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  83
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  84
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  85
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  86
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  87
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  88
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  89
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  90
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  91
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  92
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  93
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  94
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  95
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  96
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  97
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  98
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  99
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  100
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+
+
+
+Chromosomes 
+512
+ mutation 
+0.9
+
+
+
+Generation:  1
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  2
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  3
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  4
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  5
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  6
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  7
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  8
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  9
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  10
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  11
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  12
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  13
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  14
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  15
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  16
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  17
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  18
+Best solution so far:
+f( (-1.5747070314375833e-05, -8.106248117201176e-09) )=  -45.4365191109
+Generation:  19
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  20
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  21
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  22
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  23
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  24
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  25
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  26
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  27
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  28
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  29
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  30
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  31
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  32
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  33
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  34
+Best solution so far:
+f( (-1.5747070314375833e-05, -7.62940999265993e-09) )=  -45.4365191109
+Generation:  35
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  36
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  37
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  38
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  39
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  40
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  41
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  42
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  43
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  44
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  45
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  46
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  47
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  48
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  49
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  50
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  51
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  52
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  53
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  54
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  55
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  56
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  57
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  58
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  59
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  60
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  61
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  62
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  63
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  64
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  65
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  66
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  67
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  68
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  69
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  70
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  71
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  72
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  73
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  74
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  75
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  76
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  77
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  78
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  79
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  80
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  81
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  82
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  83
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  84
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  85
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  86
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  87
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  88
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  89
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  90
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  91
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  92
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  93
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  94
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  95
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  96
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  97
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  98
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  99
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  100
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+
+
+
+Chromosomes 
+512
+ mutation 
+1.1
+
+
+
+Generation:  1
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  2
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  3
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  4
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  5
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  6
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  7
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  8
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  9
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  10
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  11
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  12
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  13
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  14
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  15
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  16
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  17
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  18
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  19
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  20
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  21
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  22
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  23
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  24
+Best solution so far:
+f( (-1.5747070314375833e-05, -1.4210854715202004e-14) )=  -45.4365191109
+Generation:  25
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  26
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  27
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  28
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  29
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  30
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  31
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  32
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  33
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  34
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  35
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  36
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  37
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  38
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  39
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  40
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  41
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  42
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  43
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  44
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  45
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  46
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  47
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  48
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  49
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  50
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  51
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  52
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  53
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  54
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  55
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  56
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  57
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  58
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  59
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  60
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  61
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  62
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  63
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  64
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  65
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  66
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  67
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  68
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  69
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  70
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  71
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  72
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  73
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  74
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  75
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  76
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  77
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  78
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  79
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  80
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  81
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  82
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  83
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  84
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  85
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  86
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  87
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  88
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  89
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  90
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  91
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  92
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  93
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  94
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  95
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  96
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  97
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  98
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  99
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+Generation:  100
+Best solution so far:
+f( (-1.2207031119260137e-07, -1.4210854715202004e-14) )=  -45.4365633117
+
+
+
+Chromosomes 
+1024
+ mutation 
+0.3
+
+
+
+Generation:  1
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  2
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  3
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  4
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  5
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  6
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  7
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  8
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  9
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  10
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  11
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  12
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  13
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  14
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  15
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  16
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  17
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  18
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  19
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  20
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  21
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  22
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  23
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  24
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  25
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  26
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  27
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  28
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  29
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  30
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  31
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  32
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  33
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  34
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  35
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  36
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  37
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  38
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  39
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  40
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  41
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  42
+Best solution so far:
+f( (-0.0006250152587909952, 32.767997985835606) )=  -24.6569926801
+Generation:  43
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  44
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  45
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  46
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  47
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  48
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  49
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  50
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  51
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  52
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  53
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  54
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  55
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  56
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  57
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  58
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  59
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  60
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  61
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  62
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  63
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  64
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  65
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  66
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  67
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  68
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  69
+Best solution so far:
+f( (-0.00012501525878860775, 32.767997985835606) )=  -24.6569991368
+Generation:  70
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  71
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  72
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  73
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  74
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  75
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  76
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  77
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  78
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  79
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  80
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  81
+Best solution so far:
+f( (-0.00012501525878860775, 16.383997985835606) )=  -25.8250207717
+Generation:  82
+Best solution so far:
+f( (-0.00012501525878860775, 12.28799798583561) )=  -27.7013281565
+Generation:  83
+Best solution so far:
+f( (-0.00012501525878860775, 12.28799798583561) )=  -27.7013281565
+Generation:  84
+Best solution so far:
+f( (-0.00012501525878860775, 12.28799798583561) )=  -27.7013281565
+Generation:  85
+Best solution so far:
+f( (-0.00012501525878860775, 12.28799798583561) )=  -27.7013281565
+Generation:  86
+Best solution so far:
+f( (-0.00012501525878860775, 12.28799798583561) )=  -27.7013281565
+Generation:  87
+Best solution so far:
+f( (-0.00012501525878860775, 12.28799798583561) )=  -27.7013281565
+Generation:  88
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  89
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  90
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  91
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  92
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  93
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  94
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  95
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  96
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  97
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  98
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  99
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  100
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+
+
+
+Chromosomes 
+1024
+ mutation 
+0.5
+
+
+
+Generation:  1
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  2
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  3
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  4
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  5
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997985835609) )=  -36.4132439142
+Generation:  6
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  7
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  8
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  9
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  10
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  11
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  12
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  13
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  14
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  15
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  16
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  17
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  18
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  19
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  20
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  21
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  22
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  23
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  24
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955318033) )=  -36.4132440979
+Generation:  25
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955079611) )=  -36.4132440994
+Generation:  26
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955079611) )=  -36.4132440994
+Generation:  27
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955079611) )=  -36.4132440994
+Generation:  28
+Best solution so far:
+f( (-0.00012501525878860775, 4.095997955079611) )=  -36.4132440994
+Generation:  29
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  30
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  31
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  32
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  33
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  34
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  35
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  36
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  37
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  38
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  39
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  40
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  41
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  42
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  43
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  44
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  45
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  46
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  47
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  48
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  49
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  50
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  51
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  52
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  53
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  54
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  55
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  56
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  57
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  58
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  59
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  60
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  61
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  62
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  63
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  64
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  65
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  66
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  67
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  68
+Best solution so far:
+f( (-0.00012501525878860775, 4.09599795507868) )=  -36.4132440994
+Generation:  69
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  70
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  71
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  72
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  73
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  74
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  75
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  76
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  77
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  78
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  79
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  80
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  81
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  82
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  83
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  84
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  85
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  86
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  87
+Best solution so far:
+f( (-0.00012501525878860775, 4.095872955078683) )=  -36.4139963394
+Generation:  88
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  89
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  90
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  91
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  92
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  93
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  94
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  95
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  96
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  97
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  98
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  99
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+Generation:  100
+Best solution so far:
+f( (-0.00012501525878860775, 3.071872955078682) )=  -38.2563673958
+
+
+
+Chromosomes 
+1024
+ mutation 
+0.7
+
+
+
+Generation:  1
+Best solution so far:
+f( (-0.00012501525878860775, 3.071871978516178) )=  -38.2563726461
+Generation:  2
+Best solution so far:
+f( (-0.00012501525878860775, 3.071871978516178) )=  -38.2563726461
+Generation:  3
+Best solution so far:
+f( (-0.00012501525878860775, 3.071871978516178) )=  -38.2563726461
+Generation:  4
+Best solution so far:
+f( (-0.00012501525878860775, 3.071856353516182) )=  -38.2564566455
+Generation:  5
+Best solution so far:
+f( (-0.00012501525878860775, 3.071856353516182) )=  -38.2564566455
+Generation:  6
+Best solution so far:
+f( (-0.00012501525878860775, 3.071856353516182) )=  -38.2564566455
