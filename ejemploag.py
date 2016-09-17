@@ -160,34 +160,32 @@ a=-20
 b=20
 for j in range (0, 6):
     L_chromosome*=2;
-    N_chains=2**L_chromosome
-    crossover_point=L_chromosome/2
-    #Number of chromosomes
-    N_chromosomes=10
-    #probability of mutation
     prob_m=-0.1
-    #Nomenclatura de primera poblacion
-    F0=[]
-    fitness_values=[]
-    for i in range(0,N_chromosomes):
-        F0.append(random_chromosome())
-        fitness_values.append(0)
-    suma=float(N_chromosomes*(N_chromosomes+1))/2.
-    Lwheel=N_chromosomes*10
-    F1=F0[:]
-    n_generation=0
-    F0.sort(cmp=compare_chromosomes)
-    evaluate_chromosomes()
-    graph_f()
-    graph_population(F0,w,s,s,xo,yo,'red')
     for k in range (0,5):
         prob_m+=0.2
+        N_chains=2**L_chromosome
+        crossover_point=L_chromosome/2
+        #Number of chromosomes
+        N_chromosomes=10
+        #probability of mutation
+        #Nomenclatura de primera poblacion
+        F0=[]
+        F1=[]
+        fitness_values=[]
+        for i in range(0,N_chromosomes):
+            F0.append(random_chromosome())
+            fitness_values.append(0)
+        suma=float(N_chromosomes*(N_chromosomes+1))/2.
+        Lwheel=N_chromosomes*10
+        F1=F0[:]
+        F0.sort(cmp=compare_chromosomes)
+        evaluate_chromosomes()
+        n_generation=0
         print "Chromosomes "
         print L_chromosome
         print " mutation "
         print prob_m
         print "\n\n" 
-        n_generation=0
         for i in range(0,100):
             nextgeneration()
         print "\n\n"

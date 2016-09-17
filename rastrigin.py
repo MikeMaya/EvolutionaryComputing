@@ -1,6 +1,6 @@
 #File restrigin.py
 #Algoritmo para obtener minimo de la funcion de rastrigin
-#Miguel Angel Maya Hernández
+#Miguel Angel Maya Hernndez
 #Last change: 14 de Septiembre 2016
 
 import math
@@ -120,25 +120,25 @@ L_chromosome=2
 print "Rastrigin \n\n"
 for j in range (0, 6):
     L_chromosome*=2;
-    N_chains=2**(L_chromosome/2)
-    crossover_point=L_chromosome/2
-    #Number of chromosomes
-    N_chromosomes=10
-    #probability of mutation
     prob_m=-0.1
-    #Nomenclatura de primera poblacion
-    F0=[]
-    fitness_values=[]
-    for i in range(0,N_chromosomes):
-        F0.append(random_chromosome())
-        fitness_values.append(0)
-    suma=float(N_chromosomes*(N_chromosomes+1))/2.
-    Lwheel=N_chromosomes*10
-    F1=F0[:]
-    F0.sort(cmp=compare_chromosomes)
-    evaluate_chromosomes()
     for k in range (0,5):
         prob_m+=0.2
+        N_chains=2**(L_chromosome/2)
+        crossover_point=L_chromosome/2
+        #Number of chromosomes
+        N_chromosomes=10
+        #Nomenclatura de primera poblacion
+        F0=[]
+        F1=[]
+        fitness_values=[]
+        for i in range(0,N_chromosomes):
+            F0.append(random_chromosome())
+            fitness_values.append(0)
+        suma=float(N_chromosomes*(N_chromosomes+1))/2.
+        Lwheel=N_chromosomes*10
+        F1=F0[:]
+        F0.sort(cmp=compare_chromosomes)
+        evaluate_chromosomes()
         n_generation=0
         print "Chromosomes "
         print L_chromosome
