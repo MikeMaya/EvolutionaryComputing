@@ -1,509 +1,507 @@
-Knapsack with AG 
+Coin Change with GA 
 
-
-Renglon de pesos
-Renglon de beneficios
-Capacidad
-20
+Denominaciones de moneda (iniciar con 1)
+Dinero a cambiar
+3  tam
 
 
 Generation:  1
 Best solution so far:
-f( 19 25 )=  25  -  [1, 1, 0, 1, 1]
+f( 35 ) =  -29  # con  16  monedas - [0, 1, 1, 1, 1, 1, 1, 1, 0]
 
 
 Generation:  2
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 32 ) =  -26  # con  13  monedas - [0, 1, 1, 1, 1, 1, 0, 1, 1]
 
 
 Generation:  3
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 26 ) =  -20  # con  15  monedas - [0, 0, 1, 1, 1, 1, 1, 1, 1]
 
 
 Generation:  4
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 26 ) =  -20  # con  15  monedas - [0, 0, 1, 1, 1, 1, 1, 1, 1]
 
 
 Generation:  5
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 24 ) =  -18  # con  9  monedas - [0, 1, 1, 0, 1, 1, 0, 1, 1]
 
 
 Generation:  6
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 8 ) =  -2  # con  3  monedas - [0, 0, 1, 0, 0, 1, 0, 0, 1]
 
 
 Generation:  7
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 8 ) =  -2  # con  3  monedas - [0, 0, 1, 0, 0, 1, 0, 0, 1]
 
 
 Generation:  8
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 8 ) =  -2  # con  3  monedas - [0, 0, 1, 0, 0, 1, 0, 0, 1]
 
 
 Generation:  9
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 8 ) =  -2  # con  3  monedas - [0, 0, 1, 0, 0, 1, 0, 0, 1]
 
 
 Generation:  10
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 8 ) =  -2  # con  3  monedas - [0, 0, 1, 0, 0, 1, 0, 0, 1]
 
 
 Generation:  11
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 8 ) =  -2  # con  3  monedas - [0, 0, 1, 0, 0, 1, 0, 0, 1]
 
 
 Generation:  12
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 8 ) =  -2  # con  3  monedas - [0, 0, 1, 0, 0, 1, 0, 0, 1]
 
 
 Generation:  13
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 8 ) =  -2  # con  3  monedas - [0, 0, 1, 0, 0, 1, 0, 0, 1]
 
 
 Generation:  14
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 8 ) =  -2  # con  3  monedas - [0, 0, 1, 0, 0, 1, 0, 0, 1]
 
 
 Generation:  15
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 5 ) =  5  # con  1  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 0]
 
 
 Generation:  16
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 5 ) =  5  # con  1  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 0]
 
 
 Generation:  17
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 5 ) =  5  # con  1  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 0]
 
 
 Generation:  18
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 5 ) =  5  # con  1  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 0]
 
 
 Generation:  19
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  20
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  21
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  22
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  23
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  24
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  25
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  26
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  27
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  28
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  29
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  30
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  31
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  32
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  33
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  34
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  35
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  36
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  37
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  38
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  39
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  40
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  41
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  42
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  43
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  44
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  45
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  46
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  47
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  48
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  49
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  50
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  51
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  52
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  53
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  54
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  55
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  56
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  57
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  58
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  59
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  60
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  61
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  62
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  63
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  64
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  65
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  66
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  67
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  68
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  69
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  70
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  71
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  72
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  73
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  74
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  75
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  76
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  77
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  78
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  79
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  80
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  81
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  82
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  83
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  84
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  85
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  86
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  87
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  88
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  89
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  90
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  91
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  92
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  93
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  94
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  95
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  96
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  97
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  98
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  99
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
 Generation:  100
 Best solution so far:
-f( 20 26 )=  26  -  [1, 1, 1, 0, 1]
+f( 6 ) =  6  # con  2  monedas - [0, 0, 1, 0, 0, 0, 0, 0, 1]
 
 
