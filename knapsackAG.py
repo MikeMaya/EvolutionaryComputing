@@ -1,7 +1,7 @@
-#File ackley.py
-#Algoritmo para obtener minimo de la funcion de ackley
+#File knapsackAG.py
+#Algoritmo para resolver Knapsack por Algoritmos Geneticos
 #Miguel Angel Maya Hernandez
-#Last change: 14 de Septiembre 2016
+#Last change: 23 de Septiembre 2016
 
 import math
 import random
@@ -118,10 +118,10 @@ def nextgeneration():
 
 
 
-print "Knapsack with AG \n\n"
+print "Knapsack with AG \n"
 Wi=map(int, raw_input("Renglon de pesos\n").split())
 Bi=map(int, raw_input("Renglon de beneficios\n").split())
-maxC=int(raw_input("Capacidad\n"))
+maxC=eval(raw_input("Capacidad\n"))
 print maxC
 pTotal=0
 for i in Wi: 
