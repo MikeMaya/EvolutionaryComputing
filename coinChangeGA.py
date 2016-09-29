@@ -1,4 +1,4 @@
-#File knapsackAG.py
+#File coinChangeAG.py
 #Algoritmo para resolver coin Change Genetic Algorithm
 #Miguel Angel Maya Hernandez
 #Last change: 23 de Septiembre 2016
