@@ -1,4 +1,4 @@
-#File knapsackAG.py
+#File knapsackGA.py
 #Algoritmo para resolver Knapsack por Algoritmos Geneticos
 #Miguel Angel Maya Hernandez
 #Last change: 23 de Septiembre 2016
@@ -118,18 +118,18 @@ def nextgeneration():
 
 
 
-print "Knapsack with AG \n"
+print "Knapsack with GA \n"
 Wi=map(int, raw_input("Renglon de pesos\n").split())
 Bi=map(int, raw_input("Renglon de beneficios\n").split())
 maxC=eval(raw_input("Capacidad\n"))
-print maxC
-pTotal=0
+pTotal=0    
 for i in Wi: 
     pTotal+=i
 L_chromosome=len(Wi)
 prob_m=0.5
 crossover_point=L_chromosome/2
 N_chromosomes=10
+
 F0=[]
 F1=[]
 fitness_values=[]

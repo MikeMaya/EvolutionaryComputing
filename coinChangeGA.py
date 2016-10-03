@@ -30,7 +30,6 @@ def decode_chromosome(chromosome):
         if i % tam == 0 and p > 0:
             amount+=Di[j]*cantidad
             tcant+=cantidad
-            #print cantidad, " cant ",amount, " amo"
             cantidad = 0
             i = 0
             j += 1
@@ -137,11 +136,11 @@ print "Coin Change with GA \n"
 Di = map(int, raw_input("Denominaciones de moneda (iniciar con 1)\n").split())
 conversion = int(raw_input("Dinero a cambiar\n"))
 tam = int(math.ceil(math.log(conversion, 2)))
-print tam, " tam"
 L_chromosome = len(Di)*tam
 prob_m=0.7
 crossover_point=L_chromosome/2
 N_chromosomes=10
+
 F0=[]
 F1=[]
 fitness_values=[]
@@ -154,6 +153,6 @@ F0.sort(cmp=compare_chromosomes)
 evaluate_chromosomes()
 n_generation=0
 print "\n" 
-for i in range(0,100):
+for i in range(0,200):
     nextgeneration()
     print "\n"

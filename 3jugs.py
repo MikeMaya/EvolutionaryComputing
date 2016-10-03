@@ -29,14 +29,13 @@ import random
 def random_chromosome():
     chromosome=[]
     for i in range(0,L_chromosome):
-        chromosome.append(random.randint(0,12))
+        chromosome.append(random.randint(0,11))
     return chromosome
 
 #Regresa el valor de las tres jarras al final de los movimientos
 #Regresa el valor de las tres jarras en su mejor momento 
 def decode_chromosome(chromosome):
     global L_chromosome
-    r1=r2=r3=0
     j8=0
     j5=0
     j3=0
@@ -186,9 +185,9 @@ def nextgeneration():
         o2.extend(F0[p1][crossover_point:L_chromosome])
         #Each descendant is mutated with probability prob_m
         if random.random() < prob_m:
-            o1[int(round(random.random()*(L_chromosome-1)))]=random.randint(0,12);
+            o1[int(round(random.random()*(L_chromosome-1)))]=random.randint(0,11);
         if random.random() < prob_m:
-            o2[int(round(random.random()*(L_chromosome-1)))]=random.randint(0,12)
+            o2[int(round(random.random()*(L_chromosome-1)))]=random.randint(0,11)
         #The descendants are added to F1
         F1[2+2*i]=o1
         F1[3+2*i]=o2

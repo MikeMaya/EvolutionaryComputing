@@ -36,7 +36,6 @@ def random_chromosome():
 #Regresa el valor de las tres jarras en su mejor momento 
 def decode_chromosome(chromosome):
     global L_chromosome
-    r1=r2=r3=0
     j8=0
     j5=0
     j3=0
@@ -125,7 +124,7 @@ def evaluate_chromosomes():
 def cont_nulos(chromosome):
     contador=0
     for p in range(L_chromosome):
-        if chromosome[p]==2:
+        if chromosome[p]==12:
             contador+=1
     return contador
 
