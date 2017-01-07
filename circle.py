@@ -9,6 +9,7 @@ points = [[5, 3], [5,7], [7,5]]
 Nbits_r=Nbits_h=Nbits_k=8
 L_chromosome=3*Nbits_r
 N_chains=2**Nbits_r
+
 #Lower and upper limits of search space
 
 crossover_point=L_chromosome/2
@@ -176,7 +177,7 @@ def graph_f():
 def graph_population(F,color):
     for chromosome in F:
         h,k,r=decode_chromosome(chromosome)
-        w.create_oval( (h-r)*s, (yo-(k+r)*s), (h+r)*s , (yo-(k-r)*s) ,fill=color)
+        w.create_oval( (h-r)*s, (yo-(k+r)*s), (h+r)*s , (yo-(k-r)*s) ,outline=color)
 
 graph_f()
 graph_population(F0,'red')

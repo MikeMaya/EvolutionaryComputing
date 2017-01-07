@@ -130,7 +130,7 @@ def graph_f():
 def graph_population(F,color):
     for chromosome in F:
         h,k,l=decode_chromosome(chromosome)
-        w.create_rectangle( (h-l/2.0)*s, (yo-(k+l/2.0)*s), (h+l/2.0)*s , (yo-(k-l/2.0)*s) ,fill=color)
+        w.create_rectangle( (h-l/2.0)*s, (yo-(k+l/2.0)*s), (h+l/2.0)*s , (yo-(k-l/2.0)*s) ,outline=color)
 
 
 #Chromosomes are 4 bits long
